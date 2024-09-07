@@ -1,6 +1,5 @@
 <div align="center"><a name="readme-top"></a>
 
- 
 [![][image-banner]][vercel-link]
 
 # Lobe Chat
